@@ -31,10 +31,11 @@ h1{
 .titu{
     margin-right: 100px;
     padding-left: 200px;
+    margin-right: 100px;
 }
 .tuti{
     width: 150%;
-    padding-right: 20px;
+    padding-right: 30px;
 }
 .Ex{
     display: flex;
@@ -43,4 +44,21 @@ h1{
 }
 h3{
     color: blueviolet;
+}
+.bux{
+    box-shadow: 10px 10px 20px black;
+    border-radius: 2px;
+    padding: 25px;
+    margin-right: 5%;
+    margin-left: 5%;
+    border-left: 10px solid orange;
+}
+#exp{
+    margin-left: 50px;
+}
+footer p{
+    text-align: center;
+}
+.tex{
+    text-align: justify;
 }
