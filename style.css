@@ -7,8 +7,9 @@ body{
 h1{
     font-size: 70px;
 }
-section{
+.top{
     display: flex;
+    margin-bottom: 90px;
 }
 .place{
     width: 50%;
@@ -24,7 +25,14 @@ section{
     border-radius: 3px;
     font-weight: 500;
 }
-.top{
-    background-image: url(pictures/web.png);
-    background-repeat: no-repeat;
+.second-part{
+    display: flex;
+}
+.titu{
+    margin-right: 100px;
+    padding-left: 200px;
+}
+.tuti{
+    width: 150%;
+    padding-right: 20px;
 }
