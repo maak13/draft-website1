@@ -1,0 +1,30 @@
+#Ahad{
+    color: tomato;
+}
+body{
+    font-family: 'Merriweather', serif;
+}
+h1{
+    font-size: 70px;
+}
+section{
+    display: flex;
+}
+.place{
+    width: 50%;
+    padding-left: 5%;
+}
+.place img{
+    width: 80%;
+}
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    padding: 10px 20px;
+    border-radius: 3px;
+    font-weight: 500;
+}
+.top{
+    background-image: url(pictures/web.png);
+    background-repeat: no-repeat;
+}
